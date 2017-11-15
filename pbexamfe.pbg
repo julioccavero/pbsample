@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
  "pbexamfe.pbl" "";
 @end;
 @begin Objects
+ "d_example_categories.srd" "pbexamfe.pbl";
  "d_event_list.srd" "pbexamfe.pbl";
  "examples.sra" "pbexamfe.pbl";
 @end;
